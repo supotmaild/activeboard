@@ -6,7 +6,7 @@ import urllib as url
 import pygame
 from pygame.locals import *
 from PIL import ImageTk, Image
-global tk,canvas,pygame,localtime
+global pygame,localtime
 global cam_num,Camera
 global screen,Button1,Position1,bg_color,root,xroot,yroot
 global Date_Button,Month_Button,Date_set,Month_set,Cancel_Button
